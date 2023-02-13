@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David234-star
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning IoT for research
+- 🌱 I’m currently learning ML for research
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ranadeerbasripogu@gmail.com
 
