@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David234-star
+- 👋 Hi, I’m B Ranadeer
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML for research
 - 💞️ I’m looking to collaborate on github
