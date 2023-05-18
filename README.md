@@ -1,4 +1,4 @@
-#Just the Beginings for exploration
+# Just the Beginings for exploration
 - 👋 Hi, I’m B Ranadeer
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML for research
