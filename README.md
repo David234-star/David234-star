@@ -1,8 +1,8 @@
-# Just the Beginings for exploration
+# Just the beginning of exploration
 - 👋 Hi, I’m B Ranadeer
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML for research
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ranadeerbasripogu@gmail.com
 
 <!---
