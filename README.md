@@ -1,6 +1,6 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif)
 <h1 align="center"><b>Hi there, I am B Ranadeer, You can call me Dave</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-<h3 align="center">I am a Data Enthusiast, Developer, and Software Engineer</h3>
+<h3 align="center">A Data Enthusiast, Developer</h3>
 <img align="right" width = 350 src="https://miro.medium.com/v2/resize:fit:640/1*ubde-Fkr9MeohJo0EuqQNQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david234-star&label=Profile%20views&color=0e75b6&style=flat" alt="david234-star" /> </p>
