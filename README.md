@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **AI Projects**
 
-- 💬 Ask me about **Python, Java, C, ML, Front-End dev**
+- 💬 Ask me about **Python, Java, C, ML, Front/Back - End**
 
 - 📫 How to reach me **ranadeerbasripogu@gmail.com**
 
