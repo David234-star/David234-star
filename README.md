@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **Machine Learning and DSA**
 
-- 📖 I'm currently learning about **TensorFlow, Hadoop, Hive, Theano, AWS, Azure, Google Cloud, etc..**
+- 🤩 Awesome Projects are lined up with **Data and Software, ML, LeetCode Problems, Some hobby ones**
+
+- 📖 I'm currently learning about **TensorFlow, Hadoop, Hive, Theano, Azure, Google Cloud, etc..**
 
 - 👯 I’m looking to collaborate on **Data Science and Java Projects**
 
-- 🤝 I’m looking for help with **AI Projects**
+- 🤝 I’m looking for help with **AI & ML Projects**
 
 - 💬 Ask me about **Python, Java, C, ML, Front/Back - End**
 
